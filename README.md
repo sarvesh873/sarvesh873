@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvesh873&label=Profile%20views&color=0e75b6&style=flat" alt="sarvesh873" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarvesh873" alt="sarvesh873" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=sarvesh873" alt="sarvesh873" /></a> </p>
 
 - 🌱 I’m currently learning **Django Rest Framework, Docker, AWS, React**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sarveshvarade873@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1T4Ura7mbAslQ3zNluhQRCb9FzSvzP9nH/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1up927tjfFeLeC68CZVkVg5_0Abu1w0Ku/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
